@@ -1,0 +1,7 @@
+pandas
+matplotlib
+scikit-learn
+numpy
+reportlab
+sqlalchemy
+python-dateutil
